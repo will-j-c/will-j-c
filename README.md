@@ -1,4 +1,4 @@
-## Hi there 👋
+## I can bring 15+ years of traditional financial skills into the modern world 👋
 
 <!--
 **will-j-c/will-j-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Will and I am currently studying my MSc in Computer Science from the University of Bath. 
+My name is Will and I am currently working on smart contract and trading bot development.
