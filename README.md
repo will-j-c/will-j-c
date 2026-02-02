@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Quantitative Finance & Blockchain Engineer
+# 👋 Hi, I'm a a Head of Tax and Finance Director
 
 ## Overview
 I’m a seasoned financial professional with **15+ years of experience** spanning **financial markets, quantitative analysis, Python engineering, and smart contract development**. My work sits at the intersection of **finance, data, and decentralized systems**, with a strong focus on building robust solutions.
